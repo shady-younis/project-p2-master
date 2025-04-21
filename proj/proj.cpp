@@ -9,7 +9,6 @@ void display(char x[][100], int& hr, int& hc) {
         cout << endl;
     }
 }
-// tofa7a bt3mel 7aga 3l ladder
 void tofa7a(char x[][100], int& tr, int& tc) {
 	x[tr][tc] = 229;
 }//
