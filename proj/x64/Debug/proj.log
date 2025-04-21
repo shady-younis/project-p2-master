@@ -1,0 +1,7 @@
+﻿  proj.cpp
+C:\Users\ayoun\source\repos\proj\proj\proj.cpp(13,14): warning C4309: '=': truncation of constant value
+C:\Users\ayoun\source\repos\proj\proj\proj.cpp(173,27): warning C4309: '=': truncation of constant value
+C:\Users\ayoun\source\repos\proj\proj\proj.cpp(179,20): warning C4309: '=': truncation of constant value
+C:\Users\ayoun\source\repos\proj\proj\proj.cpp(183,20): warning C4309: '=': truncation of constant value
+C:\Users\ayoun\source\repos\proj\proj\proj.cpp(186,20): warning C4309: '=': truncation of constant value
+  proj.vcxproj -> C:\Users\ayoun\source\repos\proj\x64\Debug\proj.exe
